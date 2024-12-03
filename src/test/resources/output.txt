@@ -1,0 +1,2 @@
+Person{id=1, name='John', gender='Male', date=1985-01-01, division=Division{id=1, nameDivision='Engineering'}, salary=5000.0}
+Person{id=2, name='Jane', gender='Female', date=1990-05-15, division=Division{id=2, nameDivision='Marketing'}, salary=4500.0}
